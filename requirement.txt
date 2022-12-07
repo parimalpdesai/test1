@@ -1,3 +1,4 @@
 Numpy
 Panda
 Matplotlib
+seaborn - Changes by Developer 2
